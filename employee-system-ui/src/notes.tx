@@ -1,0 +1,38 @@
+
+Node -v
+Npm -v
+
+// . create the project in the current directory
+Npx create-react-app .
+
+
+
+npm uninstall -g create-react-app
+npx clear-npx-cache
+npx create-react-app my-app
+
+###installing tailwind cdd###
+go to the project directory and run next command
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+install in Vs:
+ES7 +react
+tailwindcss
+Bracket Pair colorizer
+Prettier - Code formatter
+
+
+####create a new component using es7+react
+type: rafce
+
+
+ npm install axios
+
+ To save data using SAVE button, we need to handle the data and use REACT state. We need to use hooks
+
+ all inout fields we need to handle onChange event to change the value of the input
+
+ install react router, so we can handle multiple pages
+ type react router dom
+ npm install react-router-dom@6
